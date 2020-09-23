@@ -1,4 +1,6 @@
-### Hi there! My name is Artyom. I'm from Karelia and living in Petrozavodsk, RU. Front-end development is my passion, that's why I'm learning it!
+### Hi there! My name is Artyom. 
+### I'm from Karelia and living in Petrozavodsk, RU. 
+### Front-end development is my passion, that's why I'm learning it!
 <!--
 **zarevincom/zarevincom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
