@@ -6,4 +6,4 @@
 
 - I'm Front-end developer
 
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=zarevincom&layout=compact)](https://github.com/zarevincom/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=zarevincom&layout=compact)]
